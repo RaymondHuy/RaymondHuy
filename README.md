@@ -5,8 +5,9 @@ I am Lương Vạn Huy, people call me Raymond. I graduated in Computer Science 
 [![Linkedin Badge](https://img.shields.io/badge/-vanhuy1995-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanhuy1995/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-raymondhuy177@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raymondhuy177@gmail.com)](mailto:raymondhuy177@gmail.com)
 
-
   <summary>👨‍💻 Technology Stack</summary>
+  
+  <br />  
   
   <p align="left">
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
@@ -25,6 +26,8 @@ I am Lương Vạn Huy, people call me Raymond. I graduated in Computer Science 
   
   <br />
   <br />  
+  
+<summary>:zap: GitHub Stats</summary>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RaymondHuy&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaymondHuy&hide=TeX&layout=compact)
