@@ -7,7 +7,7 @@ I am Lương Vạn Huy, people call me Raymond. I graduated in Computer Science 
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSharp](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=C%20Sharp)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
