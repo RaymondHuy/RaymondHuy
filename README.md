@@ -2,7 +2,7 @@
 
 I am Lương Vạn Huy, people call me Raymond. I graduated in Computer Science from [University of Technology](https://www.hcmut.edu.vn/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-vanhuy1995-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanhuy1995/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-vanhuy1995-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanhuy1995/)](https://www.linkedin.com/in/vanhuy1995/)
 [![Gmail Badge](https://img.shields.io/badge/-raymondhuy177@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raymondhuy177@gmail.com)](mailto:raymondhuy177@gmail.com)
 
   <summary>👨‍💻 Technology Stack</summary>
